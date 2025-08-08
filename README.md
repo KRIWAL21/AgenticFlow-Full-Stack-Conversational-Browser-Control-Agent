@@ -255,7 +255,7 @@ Full-Stack-Conversational-Browser-Control-Agent/
 ## 📜 Credits
 
 
-Built with ❤️ by **Vijayshree Pathak**
+Built with ❤️ by Krishna agarwal
 
 ### Special Thanks
 
@@ -275,8 +275,7 @@ Built with ❤️ by **Vijayshree Pathak**
 ## 📞 Contact & Support
 
 For questions, issues, or contributions:
-- GitHub Issues: [Create an issue](https://github.com/vijayshreepathak/Full-Stack-Conversational-Browser-Control-Agent/issues)
-- Email: vijayshreepathak@example.com
+- Email:krishna21agr@gmail.com
 
 > *"Real agents don't call APIs, they move pixels."*
 
